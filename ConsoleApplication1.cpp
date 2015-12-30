@@ -1,11 +1,11 @@
 // ConsoleApplication1.cpp: определяет точку входа для консольного приложения.
-//
+//  
 
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>
-#include <iomanip>
-using namespace std;
+#include <iomanip>   
+using namespace std;  
 
 
 int main(void) 
